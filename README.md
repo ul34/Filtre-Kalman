@@ -7,7 +7,7 @@ Le bruit en electronique peut etre definit comme une quantite d'energie apporte 
 Nous allons voir comment filtrer le bruit d'un gyroscope et d'un accelerometre on considerera que le bruit suis une distribution gaussienne. 
 <img src=" " width="200" height="125">
 
-Le
+Le 
  
 
 <img src=" " width="200" height="125">
