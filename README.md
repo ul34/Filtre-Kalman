@@ -14,6 +14,10 @@ On dit que le gyroscope a un biais car nos mesures se font de maniere discrete, 
 
 Le filtre de kalman est un filtre qui vous fournie une reponse fondee sur les entres et les valeurs anterieures de cette reponse (filtre a reponse impulsionnelle infinie) il permet d estimer l etat d un systeme dynamique en se basant sur une serie de mesure biaise et bruite.
 
+Le filtre de kalman est separe en deux phases la premiere appelle prediction prend l etat a l instant T-1 pour produire l etat a linstant T la deuxieme phases est appele mise a jour utilisent les observations a linstant T pour corriger la prediction est donner un estimation plus precise.
+
+
+
 
 
 <img src=" " width="200" height="125">
