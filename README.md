@@ -20,7 +20,7 @@ Le filtre de kalman est separe en deux phases la premiere appelle prediction pre
 
 
 
-<img src="https://raw.githubusercontent.com/ul34/Filtre-Kalman-Complementaire/master/%20FK.png" width="450" height="250">
+<img src="https://raw.githubusercontent.com/ul34/Filtre-Kalman-Complementaire/master/%20FK.png" width="600" height="300">
 
  
  
