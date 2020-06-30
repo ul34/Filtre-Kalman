@@ -26,3 +26,5 @@ Le filtre de kalman est separe en deux phases la premiere appelle prediction pre
  
 
 <img src=" " width="200" height="125">
+
+https://support.minitab.com/fr-fr/minitab/18/help-and-how-to/modeling-statistics/anova/supporting-topics/anova-statistics/what-is-the-variance-covariance-matrix/
