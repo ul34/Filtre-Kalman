@@ -17,6 +17,11 @@ Le filtre de kalman est un filtre qui vous fournie une reponse fondee sur les en
 Le filtre de kalman est separe en deux phases la premiere appelle prediction prend l etat a l instant T-1 pour produire l etat a linstant T la deuxieme phases est appele mise a jour utilisent les observations a linstant T pour corriger la prediction est donner un estimation plus precise.
 
 
+Prediction 
+
+
+
+
 
 
 
