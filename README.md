@@ -1,4 +1,4 @@
-# Filtre-Kalman-Complementaire
+# Filtre-Kalman
 
 
 -Le bruit et le biais
